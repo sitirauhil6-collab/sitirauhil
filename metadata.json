@@ -1,0 +1,6 @@
+{
+  "name": "Al-Azhar NTB - Slide Sosialisasi Pesantren",
+  "description": "Materi presentasi dan slide sosialisasi persiapan kuliah di Universitas Al-Azhar Kairo untuk santri pondok pesantren di Nusa Tenggara Barat, lengkap dengan ekspor PPTX, mode presenter, simulasi biaya, dan latihan seleksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
